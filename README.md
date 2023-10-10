@@ -4,7 +4,7 @@ A aplicação é uma app de listagem de livros desenvolvida com React Native, a 
 
 ## Telas do App:
 
-<div align="center">
+<div>
   <img src="github/00_home.png" width="25%" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="github/01_search.png" width="25%" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="github/02_rating.png" width="25%" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
